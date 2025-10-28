@@ -43,8 +43,3 @@ Você pode abrir diretamente o arquivo `index.html` no navegador ou:
 O site irá abrir automaticamente no navegador. ✅
 
 ---
-
-## 📷 Prévia
-
-*(Você pode adicionar aqui uma imagem do seu banner depois que subir o projeto!)*  
-Exemplo:
