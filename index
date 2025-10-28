@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TripMe - Explore o Mundo</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#tripme">TripMe</a></li>
+                <li><a href="#meetus">MeetUs</a></li>
+                <li><a href="#advice">Advice</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+
+        <!-- Banner -->
+        <section id="home" class="banner">
+            <h1>Venha conhecer lugares incríveis!</h1>
+        </section>
+
+        <!-- Seção 1 -->
+        <section id="tripme" class="container">
+            <h2>TripMe</h2>
+            <p>Descubra vilarejos encantadores, gastronomia local e trilhas inesquecíveis ao redor da Europa.</p>
+        </section>
+
+        <!-- Seção 2 -->
+        <section id="meetus" class="container">
+            <h2>MeetUs</h2>
+            <p>Somos apaixonados por viagens e queremos te ajudar a planejar a próxima aventura!</p>
+        </section>
+
+        <!-- Seção 3 -->
+        <section id="advice" class="container">
+            <h2>Advice</h2>
+            <p>Dicas exclusivas para cada destino, desde onde comer até como economizar durante sua viagem.</p>
+        </section>
+
+    </main>
+
+    <footer>
+        <p>© 2025 TripMe - Todos os direitos reservados</p>
+    </footer>
+
+</body>
+</html>
